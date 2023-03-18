@@ -1,4 +1,5 @@
-﻿中視HD,http://www.luweibo.top/hotel/share/tw.php?id=live1048
+新聞綜合,#genre#
+中視HD,http://www.luweibo.top/hotel/share/tw.php?id=live1048
 華視HD,http://www.luweibo.top/hotel/share/tw.php?id=live1049
 民視HD,http://www.luweibo.top/hotel/share/tw.php?id=live1050
 公視,http://www.luweibo.top/hotel/share/tw.php?id=live1201
