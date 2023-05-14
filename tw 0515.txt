@@ -1,4 +1,4 @@
-新聞頻道
+新聞頻道,#genre#
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -217,7 +217,7 @@ DW德國之聲,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklis
 
 
 
-綜合頻道
+綜合頻道,#genre#
 台視,rtmp://9wv7.mine.nu/sat/tv071
 台視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台視,http://60.251.33.252:18543/.m3u8
@@ -912,7 +912,7 @@ viva購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 
 
 
-電影頻道
+電影頻道,#genre#
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
@@ -1232,7 +1232,7 @@ CHC高清電影,https://live.v1.mk/aishang/chcgqdy
 
 
 
-體育頻道
+體育頻道,#genre#
 央視體育,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 央視體育,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 央視體育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -1479,7 +1479,7 @@ WWE摔角,http://103.68.63.37:8278/wwe_twn/playlist.m3u8
 
 
 
-人文幼兒
+人文幼兒,#genre#
 央視記錄,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
 央視記錄,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
 央視記錄,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
@@ -1706,7 +1706,7 @@ Baby TV,http://218.32.47.179:18514/.m3u8
 
 
 
-港澳地區
+港澳地區,#genre#
 華麗台,http://23.237.10.66:16410
 華麗台,http://r.jdshipin.com/thuYX
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
@@ -1823,7 +1823,7 @@ VIUTV6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?
 
 
 
-4K頻道
+4K頻道,#genre#
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 愛上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 欢笑剧场4k,http://183.207.255.188/live/program/live/hxjc4k/15000000/mnf.m3u8
@@ -1880,7 +1880,7 @@ BTV紀實科教-8K,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/150
 
 
 
-央視頻道
+央視頻道,#genre#
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 欢笑剧场4k,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
@@ -1991,7 +1991,7 @@ CCTV17,http://bcl.5high.org:4022/udp/239.3.1.151:8144
 
 
 
-各省衛視
+各省衛視,#genre#
 北京卫视,http://router.tonyliangli.cn:4022/rtp/239.3.1.241:8000
 湖南卫视,http://router.tonyliangli.cn:4022/rtp/239.3.1.132:8012
 东方卫视,http://router.tonyliangli.cn:4022/rtp/239.3.1.136:8032
@@ -2196,7 +2196,7 @@ CCTV17,http://bcl.5high.org:4022/udp/239.3.1.151:8144
 
 
 
-SiTV頻道
+SiTV頻道,#genre#
 超级体育,http://183.207.255.188/live/program/live/qcsj8m/8000000/mnf.m3u8
 汽车世界,http://183.207.255.188/live/program/live/qcsj8m/8000000/mnf.m3u8
 看天下精选,http://183.207.255.188/live/program/live/ktxjx8m/8000000/mnf.m3u8
@@ -2239,7 +2239,7 @@ SiTV頻道
 
 
 
-NewTV頻道
+NewTV頻道,#genre#
 超级电视剧,http://39.134.136.161:6610/000000001000/2000000003000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=3
 超级电视剧,http://39.134.136.161:6610/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
 超级电视剧,http://39.134.136.161:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3
@@ -2293,7 +2293,7 @@ NewTV頻道
 
 
 
-iHOT頻道
+iHOT頻道,#genre#
 爱喜剧,http://39.134.136.150:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 爱科幻,http://39.134.136.150:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 爱院线,http://39.134.136.150:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
@@ -2326,7 +2326,7 @@ iHOT頻道
 
 
 
-網路廣播電台
+網路廣播電台,#genre#
 1766私房音樂,http://livestream.1766.today:1769/live1.mp3
 181FM,http://relay.181.fm:8128
 500首華語經典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
@@ -2419,7 +2419,7 @@ VOA美國之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akaca
 
 
 
-紳士頻道
+紳士頻道,#genre#
 HAPPY,mitv://generationnexxxt.com:19806/3a8a5adf93674ce2b85012f87ad07709
 K,mitv://generationnexxxt.com:19806/e20dca54b1324dac8e48bfa7b604f1b7
 彩虹e台,mitv://generationnexxxt.com:19806/26193e4740334b55b5ac2a2055439296
