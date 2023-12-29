@@ -1,3 +1,137 @@
+新聞綜合,#genre#
+華視新聞,https://www.youtube.com/live/wM0g8EoUZ_E?si=JFl6mx4CYiFgmfTi
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
+壹新闻 HD,https://iptv543.com/xsj/xsj.php?id=nexttv
+衛視電影,http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+三立台灣,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+台視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+中視,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+民視,http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+人間衛視,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
+東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+東森超視,http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+年代MUCH,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+八大戲劇,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+緯來戲劇,http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+WAKUWAKU JAPAN,http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+東森新聞,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+台視,http://8.210.207.87/jd.php?id=live1047
+中視,http://8.210.207.87/jd.php?id=live1048
+華視,http://8.210.207.87/jd.php?id=live1049
+民視,http://8.210.207.87/jd.php?id=live1050
+公視,http://8.210.207.87/jd.php?id=live1201
+人間衛視,http://8.210.207.87/jd.php?id=live1198
+大愛電視,http://8.210.207.87/jd.php?id=live1216
+好消息頻道,http://8.210.207.87/jd.php?id=live1231
+國家地理,http://8.210.207.87/jd.php?id=live1003
+DISCOVERY,http://8.210.207.87/jd.php?id=live1002
+旅遊生活,http://8.210.207.87/jd.php?id=live1005
+動物星球,http://8.210.207.87/jd.php?id=live1004
+亞洲旅遊,http://8.210.207.87/jd.php?id=live1219
+Baby TV,http://8.210.207.87/jd.php?id=live1007
+東森幼幼,http://8.210.207.87/jd.php?id=live1008
+緯來綜合,http://8.210.207.87/jd.php?id=live1044
+八大第一,http://8.210.207.87/jd.php?id=live1043
+八大綜合,http://8.210.207.87/jd.php?id=live1019
+三立臺灣,http://8.210.207.87/jd.php?id=live1021
+三立都會,http://8.210.207.87/jd.php?id=live1020
+衛視中文,http://8.210.207.87/jd.php?id=live1024
+東森綜合,http://8.210.207.87/jd.php?id=live1041
+超視,http://8.210.207.87/jd.php?id=live1180
+中天綜合,http://8.210.207.87/jd.php?id=live1022
+中天娛樂,http://8.210.207.87/jd.php?id=live1023
+東風衛視,http://8.210.207.87/jd.php?id=live1195
+MUCH TV,http://8.210.207.87/jd.php?id=live1189
+東森戲劇,http://8.210.207.87/jd.php?id=live1042
+八大戲劇,http://8.210.207.87/jd.php?id=live1057
+緯來戲劇,http://8.210.207.87/jd.php?id=live1186
+緯來戲劇,http://8.210.207.87/jd.php?id=live1086
+龍華戲劇台,http://8.210.207.87/jd.php?id=live1009
+龍華日韓劇,http://8.210.207.87/jd.php?id=live1010
+龍華偶像劇,http://8.210.207.87/jd.php?id=live1235
+緯來日本,http://8.210.207.87/jd.php?id=live1026
+華視新聞資訊台,http://8.210.207.87/jd.php?id=live1238
+年代新聞,http://8.210.207.87/jd.php?id=live1192
+東森新聞,http://8.210.207.87/jd.php?id=live1014
+中天新聞,http://8.210.207.87/jd.php?id=live1015
+民視新聞,http://8.210.207.87/jd.php?id=live1204
+三立新聞,http://8.210.207.87/jd.php?id=live1016
+非凡新聞,http://8.210.207.87/jd.php?id=live1013
+非凡商業,http://8.210.207.87/jd.php?id=live1012
+東森財經,http://8.210.207.87/jd.php?id=live1017
+寰宇新聞,http://8.210.207.87/jd.php?id=live1222
+壹新聞,http://8.210.207.87/jd.php?id=live1242
+CNBC,http://8.210.207.87/jd.php?id=live1063
+Bloomberg News,http://8.210.207.87/jd.php?id=live1066
+NHK世界,http://8.210.207.87/jd.php?id=live1228
+衛視電影,http://8.210.207.87/jd.php?id=live1031
+好萊塢電影,http://8.210.207.87/jd.php?id=live1025
+緯來電影,http://8.210.207.87/jd.php?id=live1183
+龍華電影台,http://8.210.207.87/jd.php?id=live1245
+HBO,http://8.210.207.87/jd.php?id=live1029
+AXN,http://8.210.207.87/jd.php?id=live1054
+CINEMAX,http://8.210.207.87/jd.php?id=live1030
+STAR MOVIES GOLD,http://8.210.207.87/jd.php?id=live1032
+Star World,http://8.210.207.87/jd.php?id=live1040
+緯來育樂,http://8.210.207.87/jd.php?id=live1045
+緯來體育,http://8.210.207.87/jd.php?id=live1011
+博斯運動一,http://8.210.207.87/jd.php?id=live1225
+momo 綜合台,http://8.210.207.87/jd.php?id=live1248
+ELEVEN SPORTS 1,http://8.210.207.87/jd.php?id=live1069
+ELEVEN SPORTS 2,http://8.210.207.87/jd.php?id=live1072
+animax,http://8.210.207.87/jd.php?id=live1060
+TVBS歡樂台,http://8.210.207.87/jd.php?id=live1018
+TVBS新聞台,http://8.210.207.87/jd.php?id=live1051
+中視 HD,https://iptv543.com/xsj/xsj.php?id=ctv-hd
+公視3台,https://iptv543.com/xsj/xsj.php?id=pts3
+東森綜合台,https://iptv543.com/xsj/xsj.php?id=ebc-ettv
+台視,https://iptv543.com/xsj/xsj.php?id=ttv
+緯來日本,https://iptv543.com/xsj/xsj.php?id=videoland-japan
+壹新聞 HD,https://iptv543.com/xsj/xsj.php?id=nexttv
+台視新聞,https://iptv543.com/xsj/xsj.php?id=ttv-news
+TVBS 歡樂台,https://iptv543.com/xsj/xsj.php?id=tvbs-huanle
+東森電影,https://iptv543.com/xsj/xsj.php?id=ebc-movie
+衛視電影台,https://iptv543.com/xsj/xsj.php?id=star-chinese-movies
+龍祥電影台,https://iptv543.com/xsj/xsj.php?id=lstime
+緯來電影台,https://iptv543.com/xsj/xsj.php?id=videoland-movie
+美亞電影台,https://iptv543.com/xsj/xsj.php?id=meiah-movies
+星衛娛樂台,https://iptv543.com/xsj/xsj.php?id=star-entetainment
+Astro Awani,https://iptv543.com/xsj/xsj.php?id=astro-awani
+緯來體育,https://iptv543.com/xsj/xsj.php?id=videoland-sport
+ELEVEN體育-1,https://iptv543.com/xsj/xsj.php?id=eleven-sport1
+ELEVEN體育-2,https://iptv543.com/xsj/xsj.php?id=eleven-sport2
+Eurosports-1,https://iptv543.com/xsj/xsj.php?id=eurosports-1
+ELTA體育-1,https://iptv543.com/xsj/xsj.php?id=elta-sport1
+ELTA體育-3,https://iptv543.com/xsj/xsj.php?id=elta-sport3
+國家地理 野生頻道,https://iptv543.com/xsj/xsj.php?id=natgeo-wild
+動物星球頻道,https://iptv543.com/xsj/xsj.php?id=animal-planet
+History-2 頻道,https://iptv543.com/xsj/xsj.php?id=history-2
+TLC 旅遊生活頻道,https://iptv543.com/xsj/xsj.php?id=tlc
+美食星球頻道,https://iptv543.com/xsj/xsj.php?id=food-planet
+ABC News,https://iptv543.com/xsj/xsj.php?id=abc-news
+BBC World News,https://iptv543.com/xsj/xsj.php?id=bbc-world-news
+CNBC,https://iptv543.com/xsj/xsj.php?id=cnbc
+東森幼幼台,https://iptv543.com/xsj/xsj.php?id=ebc-yoyo
+Boomerang HD,https://iptv543.com/xsj/xsj.php?id=boomerang-hd
+Animax卡通,https://iptv543.com/xsj/xsj.php?id=animax-cartoon
+
+
+
+
 新聞頻道,#genre#
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
