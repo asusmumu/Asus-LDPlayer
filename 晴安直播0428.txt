@@ -162,6 +162,9 @@ MOMO親子臺,P2p://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 TVBS歡樂臺,P2p://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
 緯來戲劇臺,P2p://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556
 高點綜合臺,P2p://generationnexxxt.com:19806/462775e2153243fc92adec0793c638d0
+東森新聞p3p,p3p://108.181.20.159:05620/61468afa0005b339ea7014d376a616f3
+壹新聞p3p,p3p://108.181.20.159:05620/621dbb640001cb2b272027f74da62753
+緯來日本,p3p://108.181.20.159:05620/5fe1add80007bbbd788125c43bf36060
 BBCWorldNews,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
 CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 BloombergTV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
