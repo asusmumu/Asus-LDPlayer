@@ -96,7 +96,7 @@ ELTA體育1,rtmp://f13h.mine.nu/sat/md051
 民視台灣台,mitv://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
 台視綜合台,mitv://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
 台視財經台,mitv://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
-東森綜合大樓,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
+東森綜合台,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 東森新聞台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 東森新聞台,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 東森幼台,mitv://generationnexxxt.com:19806/baa16215e2224e399f6dc71eb3576ed4
