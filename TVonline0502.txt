@@ -2677,4 +2677,6 @@ LOOK,http://z88.ubtvfans.com:443/live/rx4/2933/60497d63c7532401bb5795a8e2a9adaa/
 彩虹電影2,http://z88.ubtvfans.com:443/live/rx4/2934/e36bc489afabbf84ed6ae225b1400ae8/index.m3u8
 
 时间&端口,#genre# 
-拉取最少间隔5分钟,http:// 2024-05-07 16:00:58,http:// 159:20141,http:// 169:48527,http:/
+拉取最少间隔5分钟,http:// 2024-05-07 16:00:58
+aa,http:// 159:20141
+bb,http:// 169:48527,http:/
