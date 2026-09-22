@@ -2,7 +2,7 @@
  "sites": [
   {
    "key": "py_douban",
-   "name": "豆瓣推薦|首頁]",
+   "name": "豆瓣推薦|py]",
    "type": 3,
    "api": "./py/douban.py",
    "changeable": 0,
