@@ -135,11 +135,11 @@ http://211.23.95.147:18881/live/102_h265.ts
 http://211.23.95.147:18881/live/104_h265.ts
 
 #EXTINF:-1 tvg-name="愛爾達體育一台" tvg-logo="https://logo.catvod.com/愛爾達體育一台.png" group-title="體育",愛爾達體育一台
-http://106.107.177.247:5678/live/stream-14760d6c-b244-42de-8ae4-88233185ada2/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
+http://iptv.852851.xyz/l/rhRtmrLcYUEdX9ShuLW9sVxDvbFkSG7ouIMGxKdjdnab0qFWA6LkGrvkYNfQAAxS/index.m3u8
 #EXTINF:-1 tvg-name="愛爾達體育二台" tvg-logo="https://logo.catvod.com/愛爾達體育二台.png" group-title="體育",愛爾達體育二台
-http://106.107.177.247:5678/live/stream-75ae3a1c-49a7-4972-932b-73ae6b796569/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
+http://iptv.852851.xyz/l/E1QgWQLwZCgM606cW284Iw_b5zvRHdFTtnMJbABM1pETz4WCcGiZhhkeqPLuVm9H/index.m3u8
 #EXTINF:-1 tvg-name="愛爾達體育三台" tvg-logo="https://logo.catvod.com/愛爾達體育三台.png" group-title="體育",愛爾達體育三台
-http://106.107.177.247:5678/live/stream-0ec229ac-84d8-4ce8-a04b-d12c0c5343ff/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
+http://iptv.852851.xyz/l/ub5934TRfX6wRDExPZqB7-1V8WWIUy_sLVUYI-EOu-rpsrpLPi2TbpWsBI7-CSsu/index.m3u8
 #EXTINF:-1 tvg-name="愛爾達體育三台" tvg-logo="https://logo.catvod.com/愛爾達體育三台.png" group-title="體育",愛爾達體育四台
 http://106.107.177.247:5678/live/stream-c30ec14d-a518-413e-98bc-0bd1ee5f419b/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
 #EXTINF:-1 tvg-name="緯來體育台" tvg-logo="https://logo.catvod.com/緯來體育台.png" group-title="體育",緯來體育台
