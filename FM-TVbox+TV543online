@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "drpyS_55影视",
-      "name": "影視動漫短劇",
+      "name": "影視｜動漫｜短劇",
       "type": 4,
       "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
       "searchable": 2,
