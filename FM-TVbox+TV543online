@@ -294,6 +294,10 @@
     {
       "name": "211數位代理(中華電信)",
       "url": "https://raw.githubusercontent.com/asusmumu/Asus-LDPlayer/refs/heads/main/211%E6%95%B8%E4%BD%8D%E4%BB%A3%E7%90%86-FM-Radio.m3u"
+    },
+    {
+      "name": "catvod",
+      "url": "https://live.catvod.com/?tk=9bcf55680bcdd814491d117e7a9c9935"
     }
   ]
 }
