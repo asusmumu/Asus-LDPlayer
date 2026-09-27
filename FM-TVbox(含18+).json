@@ -67,6 +67,7 @@
 
  
   
+  ],
 
   "parses": [
     { "name": "默認解析", "type": 1, "url": "https://jx.jsonplayer.com/player/?url=" }
