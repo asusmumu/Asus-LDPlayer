@@ -64,19 +64,8 @@
         {"key": "ddzy2", "name": "🔞豆豆", "type": 1, "api": "https://doudouzy.com/api.php/provide/vod/?ac=list"},
         {"key": "hlxzy", "name": "🔞黑料X", "type": 1, "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list"},
         {"key": "xjzyw", "name": "🔞香蕉", "type": 1, "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list"}
-
- 
-  
-  
   ],
-  "lives": [
-    {
-      "name": "我的直播頻道",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/ddhola/file/refs/heads/main/Wtvbox_list1.txt",
-      "ua": "okhttp/3.12.13"
-    }
-  ],
+  
   "parses": [
     { "name": "默認解析", "type": 1, "url": "https://jx.jsonplayer.com/player/?url=" }
   ]
