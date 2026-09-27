@@ -1,7 +1,7 @@
 {
   "version": "1",
   "sites": [
-        {"key": "aidan", "name": "🎬艾旦影视(聚)", "type": 1, "api": "https://lovedan.net/api.php/provide/vod/"},
+        {"key": "aidan", "name": "🎬艾旦影视(推薦)", "type": 1, "api": "https://lovedan.net/api.php/provide/vod/"},
         {"key": "snzy1", "name": "🎊索尼1┃资源", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/"},
         {"key": "snzy2", "name": "📀索尼2┃影视", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod"},
         {"key": "ffzy", "name": "🆕 非凡┃资源", "type": 1, "api": "http://cj.ffzyapi.com/api.php/provide/vod/"},
