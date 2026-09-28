@@ -30,24 +30,7 @@
         "type": "rect",
         "ratio": 1.597
       }
-    },
-
-    {
-      "key": "夸快夸快",
-      "name": "❤夸快｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://ogkk.nxog.eu.org",
-          "https://ogkk.nxog.fun",
-          "https://woog.歌.de5.net"
-        ]
-      }
+    
     },
     {
       "key": "热播影视",
