@@ -1,7 +1,5 @@
 {
-  "spider": "https://gitee.com/baohe2025/bh/raw/master/spider.jar",
-  "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-  "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+  "version": "1",
   "sites": [
     {
       "key": "豆瓣",
