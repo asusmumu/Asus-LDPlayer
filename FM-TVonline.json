@@ -3,7 +3,7 @@
     "spider": "./0928.jar",
     "sites": [{
         "key": "豆瓣",
-        "name": "🌈🅱綜合影視劇院",
+        "name": "🌈綜合影視劇院",
         "type": 3,
         "api": "csp_DouDou",
         "searchable": 0
