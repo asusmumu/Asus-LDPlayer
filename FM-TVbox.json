@@ -17,7 +17,7 @@
       "type": 3,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/0f8ea2f30bb7607d0e4603fe999b64f6.jpg;md5;fb2c84ce1e3d69aa669be42e7fd3539b",
       "api": "csp_Config",
-      "searchable": 0
+      "searchable": 0 
     },
     {
       "key": "配置中心",
