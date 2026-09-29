@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "豆瓣｜首頁",
+      "name": "TVbox｜豆瓣｜首頁",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
